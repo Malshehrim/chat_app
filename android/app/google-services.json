@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243780135269",
+    "project_id": "chat-app-yout",
+    "storage_bucket": "chat-app-yout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243780135269:android:450bc79b8f97590601198c",
+        "android_client_info": {
+          "package_name": "com.chatappyout.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Fot0A3gJGEy-pL7s6vUx7a99UqUDYBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
